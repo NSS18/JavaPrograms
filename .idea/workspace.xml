@@ -35,7 +35,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.MiddleCharOfString">
     <configuration name="ConvertToNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ConvertToNumber" />
       <module name="JavaPrograms" />
@@ -43,8 +43,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MiddleCharOfString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MiddleCharOfString" />
+      <module name="JavaPrograms" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MiddleCharOfString" />
         <item itemvalue="Application.ConvertToNumber" />
       </list>
     </recent_temporary>
